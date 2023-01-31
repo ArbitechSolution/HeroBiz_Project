@@ -17,6 +17,7 @@ const Footer = () => {
           </div>
           
         </div>
+        {/*  */}
         <div className="row justify-content-center ">
 
           <div className="col-10 py-4 d-flex flex-wrap">
